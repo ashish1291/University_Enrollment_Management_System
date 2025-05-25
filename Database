@@ -1,0 +1,4 @@
+show databases;
+use universitymanagementsystem;
+create table teacher(name varchar(40),fname varchar(40),empID varchar(40),dob varchar(40),address varchar(40),phone varchar(40),email varchar(40),class_X varchar(40),class_XII varchar(40),aadhar varchar(40),education varchar(40),department varchar(40));
+select*from teacher;
